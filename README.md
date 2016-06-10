@@ -1,6 +1,7 @@
 # Basic-Project (Master branch)
 
-##Warm up Day 04: Basic Project -- 05/23/2016
-To stock up various classes to be created during the course
+**Add and then Delete items from the shopping cart of Apple.com -- 06/09/2016**
+* Selenium IDE
+* Java*
 
 [Arunkumar Venkatraman](http://sqasolution.com)
